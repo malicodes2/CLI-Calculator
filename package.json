@@ -20,6 +20,7 @@
     "chalk": "^5.3.0",
     "chalk-animation": "^2.0.3",
     "inquirer": "^9.2.10",
+    "malicodes-calc": "^1.0.0",
     "registry.npmjs.org": "^1.0.1"
   },
   "repository": {

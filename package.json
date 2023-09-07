@@ -1,5 +1,5 @@
 {
-  "name": "@malicodes/malicodes-calc",
+  "name": "malicodes-calc",
   "version": "1.0.0",
   "description": "CLI Calculator",
   "main": "calc.js",
@@ -18,7 +18,8 @@
     "@types/inquirer": "^9.0.3",
     "chalk": "^5.3.0",
     "chalk-animation": "^2.0.3",
-    "inquirer": "^9.2.10"
+    "inquirer": "^9.2.10",
+    "registry.npmjs.org": "^1.0.1"
   },
   "repository": {
     "type": "git",

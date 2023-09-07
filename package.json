@@ -4,6 +4,7 @@
   "description": "CLI Calculator",
   "main": "calc.js",
   "type": "module",
+  "bin": "./calc.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
